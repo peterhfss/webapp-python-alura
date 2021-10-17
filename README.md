@@ -1,6 +1,7 @@
 # Lista de Games
 
 <br/>
+
 Descrição do Projeto
 =================
 <p>Projeto referente aos estudos do curso de Flask pela Alura, sobre criar um webapp com Python.</p>
